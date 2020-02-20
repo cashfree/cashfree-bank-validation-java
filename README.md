@@ -11,7 +11,7 @@ This kit is linked to the Bank Validation flow. Go [here](https://dev.cashfree.c
 The following kit contains the following functionalities:
     <ol>
     <li> [getToken](https://dev.cashfree.com/api-reference/payouts-api#authorise): to get the auth token to be used in all          following calls.
-    <li> [verifyBankAccount](https://dev.cashfree.com/api-reference/payouts-api#bank-validation): to verify a bank account.
+    <li> [verifyBankAccount](https://dev.cashfree.com/api-reference/payouts-api#bank-verification): to verify a bank account.
     </ol>
 
 ## Build Steps
